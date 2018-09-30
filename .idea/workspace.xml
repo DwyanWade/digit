@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="334ab0d0-d2ff-4009-9503-44a630e8591d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/banner-1a.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/images/banner-1a.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/banner-2a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/banner-3a.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/images/banner-3a.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/images/banner-4a.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/static/images/banner-4a.png" afterDir="false" />
-    </list>
+    <list default="true" id="334ab0d0-d2ff-4009-9503-44a630e8591d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +10,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="Pipfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="8" selection-start-line="12" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="69" selection-start-column="69" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/api/v1/test.py" />
         <option value="$PROJECT_DIR$/app/api/v1/tes.py" />
         <option value="$PROJECT_DIR$/app/api/v1/sd.py" />
         <option value="$PROJECT_DIR$/app/api/__init__.py" />
@@ -83,6 +94,7 @@
         <option value="$PROJECT_DIR$/app/api/v1/category.py" />
         <option value="$PROJECT_DIR$/ginger.py" />
         <option value="$PROJECT_DIR$/app/config/secure.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -251,6 +263,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15984148" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -290,7 +303,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/libs/enums.py" />
     <entry file="file://$PROJECT_DIR$/fake.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -544,9 +556,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/static/html/footer.html" />
     <entry file="file://$PROJECT_DIR$/app/static/html/navbar.html" />
-    <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ginger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -556,13 +565,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/static/html/validate.html" />
     <entry file="file://$PROJECT_DIR$/app/static/html/noAuth.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/app/config/setting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -574,6 +577,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="8" selection-start-line="12" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="69" selection-start-column="69" selection-end-column="69" />
         </state>
       </provider>
     </entry>
